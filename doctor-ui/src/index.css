@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-serif: 'Playfair Display', ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+
+  --color-brand-default: #d4a373;
+  --color-brand-light: #fefae0;
+  --color-brand-dark: #8d6e63;
+  --color-brand-soft: #e9edc9;
+  --color-brand-text: #4a403a;
+  --color-brand-muted: #9ca3af;
+  --color-brand-bg: #f9f9f9;
+
+  --animate-shimmer: shimmer 3s infinite;
+
+  @keyframes shimmer {
+    0% {
+      transform: translateX(-150%);
+    }
+
+    50% {
+      transform: translateX(150%);
+    }
+
+    100% {
+      transform: translateX(150%);
+    }
+  }
+}
+
+@layer base {
+  body {
+    @apply font-sans text-brand-text bg-brand-light antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-serif;
+  }
+}
+
+/* Hide scrollbar while keeping scroll functionality */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Custom Thin Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d4a373;
+  border-radius: 99px;
+  cursor: pointer;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #c38e5e;
+  /* Slightly darker shade for hover */
+}
+
+@media print {
+  #root {
+    display: none;
+  }
+
+  .print-portal {
+    display: block !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: white;
+  }
+}

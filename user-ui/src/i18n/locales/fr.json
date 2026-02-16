@@ -1,0 +1,798 @@
+{
+    "nav": {
+        "home": "Consulter un dermatologue",
+        "doctors": "Nos Dermatologues",
+        "products": "Soins & Traitements",
+        "approach": "Comment ça marche",
+        "myAccount": "Mon Compte",
+        "cart": "Panier",
+        "getStarted": "Prendre RDV",
+        "consultation": {
+            "online": "Consultation en ligne",
+            "reasons": "Motifs de consultation",
+            "process": "Déroulement de la consultation",
+            "pricing": "Tarifs & prise de rendez-vous"
+        },
+        "doctorsMenu": {
+            "team": "Notre équipe médicale",
+            "certified": "Dermatologues certifiés",
+            "specialties": "Spécialités traitées"
+        },
+        "howItWorks": {
+            "patientJourney": "Le parcours patient",
+            "onlineConsultation": "La consultation en ligne",
+            "security": "Sécurité & confidentialité",
+            "pricing": "Tarifs & prise en charge"
+        }
+    },
+    "patientJourney": {
+        "title": "Le Parcours Patient",
+        "subtitle": "Votre parcours de soin en 3 étapes simples.",
+        "step1Title": "1. Prise de rendez-vous",
+        "step1Desc": "Créez votre compte sécurisé et choisissez votre dermatologue selon sa spécialité ou ses disponibilités.",
+        "step2Title": "2. Consultation en ligne",
+        "step2Desc": "Connectez-vous en visio à l'heure prévue. Le médecin examine votre peau, vous pose des questions et établit un diagnostic.",
+        "step3Title": "3. Soin & Suivi",
+        "step3Desc": "Recevez instantanément votre ordonnance et vos recommandations produits. Commandez-les en ligne et faites-vous livrer."
+    },
+    "onlineConsultation": {
+        "title": "La Consultation en Ligne",
+        "subtitle": "Tout ce que vous devez savoir sur votre rendez-vous digital.",
+        "howItWorksTitle": "Le Déroulement",
+        "step1": "Connexion à la plateforme vidéo sécurisée",
+        "step2": "Échange avec le dermatologue (20 min)",
+        "step3": "Examen visuel des problèmes de peau",
+        "step4": "Explication du diagnostic et du traitement",
+        "requirementsTitle": "Ce dont vous avez besoin",
+        "req1": "Un smartphone ou ordinateur avec caméra/micro",
+        "req2": "Une connexion internet stable",
+        "req3": "Un endroit calme et bien éclairé",
+        "req4": "Pas de maquillage sur les zones concernées",
+        "afterTitle": "Et après le rendez-vous ?",
+        "after1": "Compte-rendu médical détaillé",
+        "after2": "Ordonnance digitale sécurisée",
+        "after3": "Routine de soins + Liens produits",
+        "after4": "Facture pour suivi"
+    },
+    "security": {
+        "tag": "Confiance & Éthique",
+        "title": "Sécurité & Confidentialité",
+        "subtitle": "Vos données de santé sont précieuses. Nous mettons en œuvre les standards les plus stricts pour les protéger.",
+        "hdsTitle": "Hébergement Certifié HDS",
+        "hdsDesc": "Toutes vos données sont stockées chez un Hébergeur de Données de Santé (HDS) certifié, garantissant une sécurité physique et numérique maximale, conformément à la loi.",
+        "encryptionTitle": "Chiffrement de Bout en Bout",
+        "encryptionDesc": "Vos communications vidéo et vos échanges de documents sont chiffrés. Personne, en dehors de vous et de votre médecin, ne peut y accéder.",
+        "secrecyTitle": "Strict Secret Médical",
+        "secrecyDesc": "Nos médecins sont soumis au secret médical. Vos informations personnelles ne sont jamais partagées à des tiers à des fins commerciales.",
+        "legalTitle": "Un Cadre Légal Rigoureux",
+        "legalDesc": "MyDermaLife opère dans le strict respect des réglementations en vigueur sur la télémédecine et la protection des données personnelles (RGPD, Lois locales).",
+        "compliance": "Conformité Ordre des Médecins",
+        "accessRights": "Droit d'accès et de rectification",
+        "audits": "Audits de sécurité réguliers"
+    },
+    "pricing": {
+        "tag": "Tarifs & Prise en Charge",
+        "title": "Transparence Totale",
+        "subtitle": "Des tarifs clairs, des facilités de paiement et des documents conformes pour vos remboursements.",
+        "consultationTitle": "Consultation Vidéo",
+        "price": "25 000",
+        "currency": "FCFA",
+        "feature1": "Diagnostic complet (20 min)",
+        "feature2": "Ordonnance digitale sécurisée",
+        "feature3": "Plan de soin personnalisé",
+        "feature4": "Facture pour assurance",
+        "bookBtn": "Prendre rendez-vous",
+        "paymentTitle": "Moyens de Paiement Sécurisés",
+        "paymentDesc": "Nous acceptons les paiements via Mobile Money et Carte Bancaire. La transaction est 100% sécurisée.",
+        "insuranceTitle": "Remboursement & Assurances",
+        "insuranceDesc": "Une facture acquittée est générée automatiquement après chaque consultation. Elle comporte toutes les mentions légales nécessaires pour votre demande de prise en charge auprès de votre assurance santé.",
+        "cancellationTitle": "Politique d'Annulation",
+        "cancellationDesc": "Annulation gratuite jusqu'à 24h avant le rendez-vous. En cas d'annulation tardive, des frais peuvent s'appliquer."
+    },
+    "hero": {
+        "title": "Consultez un dermatologue en ligne.",
+        "subtitle": "Téléconsultation dermatologique sécurisée et accès à des soins recommandés par des dermatologues certifiés.",
+        "ctaPrimary": "Prendre rendez-vous",
+        "ctaSecondary": "Découvrir les soins",
+        "features": {
+            "certified": "Dermatologues certifiés",
+            "secure": "Téléconsultation sécurisée",
+            "selected": "Soins dermatologiques sélectionnés"
+        }
+    },
+    "products": {
+        "sectionTag": "Notre E-Boutique",
+        "sectionTitle": "Les soins recommandés par nos dermatologues",
+        "sectionSubtitle": "Une sélection de soins dermo-cosmétiques et dermatologiques pour le visage et le corps, choisis pour leur efficacité et leur tolérance.",
+        "viewAll": "Voir tous les soins",
+        "shopAll": "Voir tous les soins",
+        "reviews": "avis",
+        "categories": {
+            "all": "Tous",
+            "face": "Soins Visage",
+            "body": "Soins Corps",
+            "kbeauty": "K-Beauty",
+            "dermBrands": "Marques Dermatologiques"
+        },
+        "nightlyDefense": "Nightly Defense",
+        "nightlyDefenseDesc": "Formulation Tretinoin personnalisée pour l'acné et l'anti-âge.",
+        "dailyGlow": "Daily Glow",
+        "dailyGlowDesc": "Sérum éclaircissant Vitamine C + Acide Hyaluronique.",
+        "barrierRestore": "Barrier Restore",
+        "barrierRestoreDesc": "Crème hydratante riche réparatrice de lipides pour peaux sensibles.",
+        "gentleCleanse": "Gentle Cleanse",
+        "gentleCleanseDesc": "Nettoyant hydratant équilibré en pH pour tous types de peau.",
+        "bestSeller": "Meilleure Vente",
+        "new": "Nouveau"
+    },
+    "benefits": {
+        "sectionTag": "Notre Promesse",
+        "sectionTitle": "Pourquoi Choisir MyDermaLife?",
+        "pillar1Title": "Expertise dermatologique certifiée",
+        "pillar1Desc": "Nos dermatologues certifiés guident chaque étape de votre parcours pour garantir des résultats sûrs et efficaces.",
+        "pillar2Title": "Téléconsultation simple et sécurisée",
+        "pillar2Desc": "Accédez à un diagnostic professionnel depuis le confort de votre domicile via notre plateforme 100% sécurisée.",
+        "pillar3Title": "Soins sélectionnés avec exigence médicale",
+        "pillar3Desc": "Une sélection rigoureuse de produits dermocosmétiques choisis pour leur haute tolérance et leur efficacité clinique."
+    },
+    "testimonials": {
+        "sectionTag": "Témoignages",
+        "sectionTitle": "Ce Que Disent Nos Clients",
+        "sectionSubtitle": "Découvrez les expériences de ceux qui ont transformé leur peau avec MyDermaLife.",
+        "name1": "Aminata K.",
+        "role1": "Cliente depuis 6 mois",
+        "quote1": "Ma peau n'a jamais été aussi belle. Les résultats sont incroyables et le suivi personnalisé fait toute la différence.",
+        "name2": "Jean-Pierre M.",
+        "role2": "Client depuis 1 an",
+        "quote2": "Après des années de lutte contre l'acné, j'ai enfin trouvé une solution qui fonctionne. L'équipe est très professionnelle.",
+        "name3": "Fatou D.",
+        "role3": "Cliente depuis 3 mois",
+        "quote3": "Le diagnostic IA est impressionnant. En quelques minutes, j'avais un plan de traitement adapté à mes besoins.",
+        "stats": {
+            "patients": "patients accompagnés",
+            "consultations": "consultations réalisées"
+        }
+    },
+    "conditions": {
+        "sectionTag": "Conditions",
+        "sectionTitle": "Sélectionnez vos",
+        "sectionTitle2": "Préoccupations",
+        "sectionSubtitle": "Nous traitons une large gamme de problèmes de peau avec une précision médicale.",
+        "viewAllTreatments": "Voir tous les traitements",
+        "whatToExpect": "À quoi s'attendre",
+        "expectationText": "Résultats visibles en 4 à 8 semaines avec une utilisation régulière. Une légère desquamation peut survenir lors du renouvellement cutané.",
+        "startTreatment": "Commencer le traitement",
+        "acne": "Acné",
+        "acneTitle": "Une Peau Claire, Confiance Retrouvée",
+        "acneDesc": "Ciblez l'acné récalcitrante avec des rétinoïdes et antibiotiques sur ordonnance personnalisés à votre type de peau.",
+        "antiAging": "Anti-Âge",
+        "antiAgingTitle": "Éclat Intemporel",
+        "antiAgingDesc": "Diminuez les rides et ridules avec des formulations puissantes de Trétinoïne et peptides qui stimulent la production de collagène.",
+        "rosacea": "Rosacée",
+        "rosaceaTitle": "Calmer et Apaiser",
+        "rosaceaDesc": "Réduisez les rougeurs et l'inflammation avec des traitements spécialisés conçus pour réparer votre barrière cutanée.",
+        "melasma": "Mélasma",
+        "melasmaTitle": "Teint Uniforme, Avenir Lumineux",
+        "melasmaDesc": "Estompez les taches brunes tenaces et l'hyperpigmentation avec nos formules éclaircissantes multi-actives."
+    },
+    "medicalExperts": {
+        "sectionTag": "Fonctionnement",
+        "title": "Comment ça marche ?",
+        "subtitle": "Un parcours de soin simple et efficace en 3 étapes.",
+        "steps": {
+            "step1": "Prenez rendez-vous en ligne",
+            "step2": "Consultez un dermatologue certifié",
+            "step3": "Accédez à des soins adaptés à votre peau"
+        },
+        "cta": "Commencer"
+    },
+    "trust": {
+        "sectionTag": "Traitements Médicaux",
+        "title1": "Développé par Dermatologues.",
+        "title2": "Cliniquement Prouvé.",
+        "subtitle": "Chaque traitement est conçu et approuvé par des dermatologues certifiés—fondé sur la science, guidé par l'expérience, et adapté aux besoins uniques de votre peau.",
+        "feature1": "Soutenu par la Recherche Clinique",
+        "feature2": "Personnalisé selon Votre Profil",
+        "feature3": "Sûr, Efficace, Force Prescription",
+        "findTreatment": "Trouver votre Traitement",
+        "doctorName": "Dr. Sarah N'Diaye & Équipe",
+        "doctorTitle": "Dermatologues Certifiés",
+        "onlinePrescriptions": "Prescriptions en Ligne"
+    },
+    "founders": {
+        "sectionTag": "Nos Experts",
+        "sectionTitle": "Nos dermatologues",
+        "readStory": "Voir toute l’équipe médicale",
+        "boardCertified": "Dermatologue Certifié"
+    },
+    "footer": {
+        "brandDesc": "Solutions de soins dermatologiques développées par des dermatologues et adaptées à votre profil de peau unique. Fondées sur la science, efficaces et simples.",
+        "shop": "Boutique",
+        "allProducts": "Tous les Produits",
+        "treatments": "Traitements",
+        "skincare": "Soins de la Peau",
+        "newArrivals": "Nouveautés",
+        "company": "Entreprise",
+        "aboutUs": "À Propos",
+        "ourDermatologists": "Nos Dermatologues",
+        "careers": "Carrières",
+        "press": "Presse",
+        "support": "Support",
+        "contactUs": "Nous Contacter",
+        "faq": "FAQ",
+        "shipping": "Livraison",
+        "returns": "Retours",
+        "copyright": "Tous droits réservés."
+    },
+    "finalCta": {
+        "title": "Prêt(e) à prendre soin de votre peau avec un dermatologue ?",
+        "cta1": "Prendre rendez-vous",
+        "cta2": "Découvrir les soins"
+    },
+    "cta": {
+        "buyProduct": "Acheter un produit",
+        "consultOnline": "Consulter en ligne",
+        "addToCart": "Ajouter au panier",
+        "viewDetails": "Voir détails"
+    },
+    "about": {
+        "pageTag": "Notre Mission",
+        "pageTitle": "La Science au Service de Votre Peau",
+        "pageSubtitle": "Découvrez l'histoire, la science et la vision derrière MyDermaLife.",
+        "sections": {
+            "founders": {
+                "title": "Histoire des fondateurs",
+                "content": "Fondée par le Dr. Muyang et le Dr. Tambong, MyDermaLife est née d'une volonté commune : rendre l'expertise dermatologique accessible à tous. Forts de leur expérience clinique, ils ont conçu une approche qui allie rigueur médicale et écoute du patient."
+            },
+            "clinical": {
+                "title": "Recherche clinique",
+                "content": "Chaque formulation est le fruit de recherches approfondies. Nous collaborons avec des laboratoires de pointe pour sélectionner des actifs dont l'efficacité est prouvée par des études cliniques rigoureuses."
+            },
+            "promise": {
+                "title": "Promesse médicale",
+                "content": "Nous nous engageons à la transparence totale. Pas de promesses miracles, mais des résultats mesurables basés sur la science. La sécurité dermatologique est notre priorité absolue pour chaque soin proposé."
+            },
+            "vision": {
+                "title": "Vision & Intelligence Artificielle",
+                "content": "Nous intégrons l'intelligence artificielle pour affiner nos diagnostics et personnaliser votre routine. Notre vision est celle d'une dermatologie augmentée, pour un suivi précis et évolutif de votre santé cutanée."
+            }
+        }
+    },
+    "common": {
+        "loading": "Chargement...",
+        "error": "Une erreur est survenue",
+        "retry": "Réessayer",
+        "cancel": "Annuler",
+        "submitting": "Envoi en cours...",
+        "submit": "Envoyer l'avis",
+        "skip": "Passer"
+    },
+    "auth": {
+        "loginTitle": "Bon Retour",
+        "loginSubtitle": "Connectez-vous pour laisser un avis",
+        "signupTitle": "Créer un Compte",
+        "signupSubtitle": "Rejoignez-nous pour partager votre expérience",
+        "name": "Nom Complet",
+        "namePlaceholder": "Jean Dupont",
+        "email": "Email",
+        "emailPlaceholder": "vous@exemple.com",
+        "password": "Mot de Passe",
+        "passwordPlaceholder": "••••••••",
+        "loginButton": "Se Connecter",
+        "signupButton": "Créer un Compte",
+        "noAccount": "Vous n'avez pas de compte ?",
+        "haveAccount": "Vous avez déjà un compte ?",
+        "signupLink": "S'inscrire",
+        "loginLink": "Se connecter"
+    },
+    "search": {
+        "title": "Recherche",
+        "resultsFor": "Résultats pour",
+        "placeholder": "Rechercher des produits...",
+        "search": "Rechercher",
+        "filters": "Filtres",
+        "category": "Catégorie",
+        "allCategories": "Toutes les catégories",
+        "priceRange": "Gamme de prix",
+        "minPrice": "Prix min",
+        "maxPrice": "Prix max",
+        "skinType": "Type de peau",
+        "allSkinTypes": "Tous les types",
+        "skinTypes": {
+            "oily": "Grasse",
+            "dry": "Sèche",
+            "normal": "Normale",
+            "combination": "Mixte"
+        },
+        "special": "Filtres spéciaux",
+        "featured": "En vedette",
+        "bestSeller": "Meilleures ventes",
+        "clearFilters": "Effacer les filtres",
+        "sort": {
+            "newest": "Plus récents",
+            "oldest": "Plus anciens",
+            "priceLowHigh": "Prix croissant",
+            "priceHighLow": "Prix décroissant",
+            "topRated": "Mieux notés",
+            "popular": "Populaires"
+        },
+        "results": "résultats",
+        "loading": "Chargement...",
+        "noResults": "Aucun résultat trouvé",
+        "tryDifferent": "Essayer une recherche différente",
+        "page": "Page",
+        "of": "sur",
+        "previous": "Précédent",
+        "next": "Suivant"
+    },
+    "productsPage": {
+        "title": "Nos Soins Dermocosmétiques",
+        "subtitle": "Une gamme complète formulée spécifiquement pour les peaux mélaniques, alliant science dermatologique et ingrédients naturels.",
+        "searchPlaceholder": "Rechercher un produit...",
+        "viewDetails": "Voir détails",
+        "addToCart": "Ajouter",
+        "noResults": "Aucun produit ne correspond à votre recherche.",
+        "viewAllProducts": "Voir tous les produits",
+        "viewAll": "Voir tout",
+        "back": "Retour",
+        "all": "Tous",
+        "treatment": "Traitement",
+        "glow": "Éclat",
+        "cleanser": "Nettoyant",
+        "hydration": "Hydratation",
+        "protection": "Protection",
+        "toner": "Tonique",
+        "bestSellers": {
+            "title": "Nos Meilleures Ventes",
+            "subtitle": "Découvrez les produits préférés de nos clients, approuvés par des milliers de peaux satisfaites."
+        },
+        "newArrivals": {
+            "title": "Dernières Nouveautés",
+            "subtitle": "Explorez nos dernières innovations en soins dermocosmétiques pour sublimer votre peau."
+        },
+        "hero": {
+            "summer-sale": {
+                "badge": "Solde d'été",
+                "title": "Économies d'Été",
+                "subtitle": "Jusqu'à -30% sur nos meilleurs produits pour une peau sublime cet été."
+            },
+            "new-arrivals": {
+                "badge": "Nouveautés",
+                "title": "Dernières Trouvailles",
+                "subtitle": "Découvrez les toutes dernières innovations dermocosmétiques."
+            },
+            "bundle-offer": {
+                "badge": "Offre Spéciale",
+                "title": "Le Kit Parfait",
+                "subtitle": "Économisez plus avec nos packs sélectionnés pour chaque besoin."
+            },
+            "men": {
+                "badge": "Gamme Hommes",
+                "title": "Soins pour Hommes",
+                "subtitle": "Des solutions simples et efficaces conçues spécifiquement pour la peau masculine."
+            },
+            "women": {
+                "badge": "Gamme Femmes",
+                "title": "Révélez votre Beauté",
+                "subtitle": "Une collection complète pour sublimer chaque type de peau au quotidien."
+            },
+            "face": {
+                "badge": "Soins Visage",
+                "title": "Expertise Visage",
+                "subtitle": "Nettoyer, hydrater et protéger : les essentiels pour un visage rayonnant."
+            },
+            "body": {
+                "badge": "Soins Corps",
+                "title": "Douceur Corporelle",
+                "subtitle": "Nourrissez votre peau avec nos soins corps riches et onctueux."
+            }
+        }
+    },
+    "productPage": {
+        "prescriptionStrength": "Force Prescription",
+        "new": "Nouveauté",
+        "bestSeller": "Meilleure Vente",
+        "reviews": "avis",
+        "benefitFightsAcne": "Combat l'acné tenace",
+        "benefitReducesLines": "Réduit les ridules",
+        "benefitUnclogsPores": "Déobstrue les pores",
+        "benefitEvensTone": "Unifie le teint",
+        "addToCart": "Ajouter au Panier",
+        "adding": "Ajout en cours...",
+        "buyNow": "Acheter maintenant",
+        "details": "détails",
+        "ingredients": "ingrédients",
+        "use": "utilisation",
+        "detailsText": "Notre formule phare utilise des rétinoïdes sur ordonnance pour augmenter le renouvellement cellulaire. Cela aide à éliminer l'acné existante tout en prévenant les futures éruptions. Au fil du temps, elle stimule également la production de collagène pour une peau plus ferme et plus jeune.",
+        "ingredientsActive": "Actifs",
+        "ingredientsInactive": "Inactifs",
+        "useStep1": "Appliquez une quantité de la taille d'un pois sur une peau propre et sèche le soir.",
+        "useStep2": "Suivez avec une crème hydratante pour réduire la sécheresse.",
+        "useStep3": "Portez toujours un écran solaire pendant la journée lors de l'utilisation de ce produit.",
+        "completeRoutine": "Complétez votre routine",
+        "addedToCart": "Ajouté au panier",
+        "viewCart": "Voir le panier",
+        "customerReviews": "Avis Clients",
+        "writeReview": "Écrire un Avis",
+        "writeReviewFor": "Écrire un avis pour",
+        "yourRating": "Votre Note",
+        "reviewTitle": "Titre de l'Avis",
+        "reviewTitlePlaceholder": "Résumez votre expérience",
+        "reviewComment": "Votre Avis",
+        "reviewCommentPlaceholder": "Partagez vos impressions sur ce produit...",
+        "reviewNote": "Votre avis sera visible après approbation par notre équipe.",
+        "noReviews": "Aucun avis pour le moment",
+        "beFirst": "Soyez le premier à donner votre avis sur ce produit !",
+        "anonymousUser": "Utilisateur Anonyme",
+        "helpful": "Utile",
+        "verifiedPurchase": "Achat Vérifié"
+    },
+    "cartPage": {
+        "title": "Votre Panier",
+        "emptyMessage": "Votre panier est vide.",
+        "continueShopping": "Continuer vos achats",
+        "product": "Produit",
+        "price": "Prix",
+        "quantity": "Quantité",
+        "total": "Total",
+        "summary": "Résumé de la commande",
+        "subtotal": "Sous-total",
+        "shipping": "Livraison",
+        "shippingCalculated": "Calculé à l'étape suivante",
+        "orderTotal": "Total de la commande",
+        "checkout": "Commander",
+        "checkoutFor": "Payer",
+        "remove": "Supprimer",
+        "discount": "Remise",
+        "promoCode": "Code Promo",
+        "apply": "Appliquer",
+        "shareCart": "Partager le Panier",
+        "shareDescription": "Partagez ce lien avec vos amis pour qu'ils puissent voir ou acheter les articles de votre panier :",
+        "linkCopied": "Lien copié !"
+    },
+    "checkoutPage": {
+        "steps": {
+            "address": "Adresse",
+            "payment": "Paiement",
+            "confirmation": "Confirmation"
+        },
+        "address": {
+            "title": "Adresse de Livraison",
+            "fillAddress": "Remplir l'adresse",
+            "useLocation": "Utiliser ma position",
+            "savedAddresses": "Adresses sauvegardées",
+            "detectingLocation": "Détection de votre position...",
+            "locationDetected": "Position détectée avec succès",
+            "locationError": "Impossible de détecter la position",
+            "noSavedAddresses": "Aucune adresse sauvegardée",
+            "selectAddress": "Sélectionner cette adresse",
+            "fullName": "Nom Complet",
+            "email": "Email",
+            "phone": "Téléphone",
+            "address": "Adresse",
+            "city": "Ville",
+            "country": "Pays",
+            "continue": "Continuer vers le paiement"
+        },
+        "payment": {
+            "title": "Mode de Paiement",
+            "selectMethod": "Sélectionnez un mode de paiement",
+            "cardNumber": "Numéro de Carte",
+            "expiry": "Date d'expiration",
+            "cvc": "CVC",
+            "mobileNumber": "Numéro Mobile",
+            "pay": "Payer",
+            "processing": "Paiement en cours..."
+        },
+        "success": {
+            "title": "Merci pour votre commande !",
+            "subtitle": "Votre commande a été confirmée.",
+            "downloadReceipt": "Télécharger le reçu",
+            "continueShopping": "Continuer vos achats"
+        }
+    },
+    "doctorsPage": {
+        "title": "Trouver un spécialiste",
+        "searchPlaceholder": "Condition, médecin ou traitement...",
+        "locationPlaceholder": "Ville ou quartier",
+        "searchButton": "Rechercher",
+        "filters": "Filtres",
+        "availability": "Disponibilité",
+        "today": "Aujourd'hui",
+        "next3Days": "3 prochains jours",
+        "fee": "Tarif",
+        "resultsFound": "résultats trouvés près de",
+        "list": "Liste",
+        "map": "Carte",
+        "videoConsultation": "Consultation vidéo",
+        "next": "Prochain"
+    },
+    "skinEvolution": {
+        "title": "L'évolution de ma peau",
+        "addPhoto": "Ajouter une photo",
+        "viewFull": "Voir en entier",
+        "noPhotos": "Aucune photo ajoutée pour le moment",
+        "startTracking": "Commencez à suivre l'évolution de votre peau",
+        "date": "Date",
+        "titleLabel": "Titre",
+        "note": "Note",
+        "save": "Enregistrer",
+        "cancel": "Annuler",
+        "imageUrl": "URL de l'image"
+    },
+    "booking": {
+        "title": "Prendre rendez-vous",
+        "selectDoctor": "Choisissez votre praticien",
+        "weekDays": [
+            "L",
+            "M",
+            "M",
+            "J",
+            "V",
+            "S",
+            "D"
+        ],
+        "steps": {
+            "date": "Date",
+            "time": "Heure",
+            "payment": "Paiement"
+        },
+        "availabilityFor": "Disponibilités pour le {{date}}",
+        "summary": {
+            "date": "Date",
+            "time": "Heure",
+            "total": "Total"
+        },
+        "paymentMethod": {
+            "title": "Moyen de paiement",
+            "om": "Orange Money",
+            "momo": "MTN Mobile Money",
+            "card": "Carte Bancaire",
+            "omDetails": "Numéro Orange Money",
+            "momoDetails": "Numéro MTN Mobile Money",
+            "cardPlaceholder": "Numéro de la carte",
+            "expiryPlaceholder": "MM/AA",
+            "cvcPlaceholder": "CVC"
+        },
+        "securityNote": "Paiement 100% sécurisé via nos partenaires locaux.",
+        "back": "Retour",
+        "continue": "Continuer",
+        "confirmPayment": "Confirmer le paiement"
+    },
+    "profile": {
+        "menu": {
+            "personalInfo": "Informations Personnelles",
+            "medicalRecord": "Mon Carnet Médical",
+            "prescriptions": "Mes Ordonnances",
+            "appointments": "Mes Rendez-vous",
+            "orders": "Mes Commandes",
+            "cart": "Mon Panier",
+            "documents": "Documents",
+            "settings": "Paramètres",
+            "logout": "Se déconnecter",
+            "clinicalProfile": "Profil Clinique",
+            "generalSettings": "Paramètres"
+        },
+        "header": {
+            "gender": "Genre",
+            "age": "Age",
+            "birthday": "Naissance",
+            "female": "Femme",
+            "male": "Homme"
+        },
+        "personalInfo": {
+            "title": "Informations Personnelles",
+            "firstName": "Prénom",
+            "lastName": "Nom",
+            "email": "Email",
+            "save": "Enregistrer les modifications"
+        },
+        "medicalRecord": {
+            "title": "Mon Carnet Médical",
+            "allergies": "Allergies",
+            "history": "Antécédents",
+            "vaccines": "Vaccinations",
+            "ongoing": "Suivi en cours",
+            "resolved": "Résolu",
+            "careJournal": "Journal des Soins",
+            "condition": "Condition",
+            "date": "Date",
+            "type": "Type",
+            "notes": "Notes",
+            "noEvents": "Aucun événement médical enregistré"
+        },
+        "prescriptions": {
+            "title": "Mes Ordonnances",
+            "download": "Télécharger"
+        },
+        "orders": {
+            "title": "Mes Commandes",
+            "orderNumber": "Commande #{{id}}",
+            "inProgress": "En cours de livraison",
+            "delivered": "Livré",
+            "empty": "Aucune commande pour le moment",
+            "items": "Articles",
+            "total": "Total",
+            "trackOrder": "Suivre la commande",
+            "date": "Date",
+            "status": {
+                "pending": "En attente",
+                "processing": "En cours",
+                "shipped": "Expédiée",
+                "delivered": "Livrée",
+                "cancelled": "Annulée"
+            },
+            "payment": {
+                "pending": "Paiement en attente",
+                "paid": "Payé",
+                "failed": "Paiement échoué",
+                "refunded": "Remboursé"
+            }
+        },
+        "appointments": {
+            "title": "Mes Rendez-vous",
+            "confirmed": "Confirmé",
+            "completed": "Terminé",
+            "edit": "Modifier",
+            "videoConsultation": "Consultation Vidéo"
+        },
+        "cart": {
+            "title": "Mon Panier",
+            "contains": "Votre panier contient {{count}} articles",
+            "estimatedTotal": "Total estimé",
+            "viewCart": "Voir mon panier"
+        },
+        "documents": {
+            "title": "Documents",
+            "prescription": "Ordonnance",
+            "receipt": "Reçu de consultation",
+            "labResults": "Résultats d'analyse"
+        },
+        "settings": {
+            "title": "Paramètres",
+            "notifications": "Notifications",
+            "notificationsDesc": "SMS et Email",
+            "language": "Langue",
+            "currentLang": "Français (FR)"
+        },
+        "addPhotoModal": {
+            "title": "Ajouter une photo",
+            "date": "Date",
+            "datePlaceholder": "Date",
+            "titleLabel": "Titre",
+            "titlePlaceholder": "Ex: Début du traitement, Amélioration visible...",
+            "imageUrl": "URL de l'image",
+            "imageUrlPlaceholder": "https://...",
+            "note": "Note",
+            "notePlaceholder": "Décrivez l'évolution de votre peau...",
+            "cancel": "Annuler",
+            "save": "Enregistrer",
+            "validationError": "Veuillez remplir tous les champs obligatoires"
+        }
+    },
+    "auth": {
+        "brandName": "MyDermaLife",
+        "loginSubtitle": "Connexion à votre compte",
+        "signupSubtitle": "Créer votre compte",
+        "loginTab": "Connexion",
+        "signupTab": "Inscription",
+        "email": "Email",
+        "emailPlaceholder": "votre.email@example.com",
+        "password": "Mot de passe",
+        "passwordPlaceholder": "••••••••",
+        "firstName": "Prénom",
+        "firstNamePlaceholder": "Jean",
+        "lastName": "Nom",
+        "lastNamePlaceholder": "Dupont",
+        "phone": "Téléphone",
+        "phonePlaceholder": "+237 6XX XXX XXX",
+        "dateOfBirth": "Date de naissance",
+        "gender": "Genre",
+        "genderSelect": "Sélectionner",
+        "genderMale": "Homme",
+        "genderFemale": "Femme",
+        "genderOther": "Autre",
+        "genderPreferNot": "Préfère ne pas dire",
+        "loginButton": "Se connecter",
+        "signupButton": "Créer mon compte",
+        "loggingIn": "Connexion...",
+        "signingUp": "Création...",
+        "backToHome": "← Retour à l'accueil",
+        "passwordRequirements": "Min. 8 caractères, 1 majuscule, 1 minuscule, 1 chiffre",
+        "requiredField": "*",
+        "fillAllFields": "Veuillez remplir tous les champs",
+        "fillRequiredFields": "Veuillez remplir tous les champs obligatoires",
+        "passwordTooShort": "Le mot de passe doit contenir au moins 8 caractères",
+        "passwordWeak": "Le mot de passe doit contenir au moins une majuscule, une minuscule et un chiffre",
+        "loginSuccess": "Connexion réussie!",
+        "signupSuccess": "Compte créé avec succès!",
+        "doctorLoginError": "Les médecins ne peuvent pas se connecter à l'interface patient. Veuillez utiliser le portail médecin."
+    },
+    "countryGate": {
+        "title": "Pas encore disponible dans votre pays",
+        "message": "Notre boutique en ligne n'est actuellement disponible qu'au Cameroun et en Côte d'Ivoire.",
+        "detectedCountry": "Votre pays détecté",
+        "availableIn": "Disponible au Cameroun 🇨🇲 et en Côte d'Ivoire 🇨🇮",
+        "backHome": "Retour à l'accueil"
+    },
+    "consultation": {
+        "title": "Consultation Vidéo",
+        "connected": "Connecté à votre médecin",
+        "connecting": "Connexion en cours...",
+        "disconnected": "Déconnecté",
+        "noActiveSession": "Aucune session active",
+        "waitForDoctor": "Veuillez attendre que votre médecin démarre la consultation.",
+        "doctor": "Médecin",
+        "endCall": "Terminer l'appel",
+        "mute": "Couper le micro",
+        "unmute": "Activer le micro",
+        "enableVideo": "Activer la vidéo",
+        "disableVideo": "Désactiver la vidéo",
+        "videoDisabled": "Vidéo désactivée",
+        "quality": {
+            "excellent": "Excellente",
+            "good": "Bonne",
+            "fair": "Moyenne",
+            "poor": "Faible",
+            "audioOnly": "Audio uniquement"
+        },
+        "endModal": {
+            "title": "Terminer l'appel",
+            "message": "Que souhaitez-vous faire ?",
+            "confirm": "Terminer l'appel",
+            "leaveWaitingRoom": "Je reviens (Salle d'attente)",
+            "endConsultation": "C'est terminé (Laisser un avis)"
+        },
+        "rating": {
+            "title": "Évaluer votre consultation",
+            "subtitle": "Comment s'est passée votre expérience avec le médecin ?",
+            "error": "Veuillez sélectionner une note",
+            "success": "Merci pour votre retour !",
+            "failure": "Échec de l'envoi de l'avis",
+            "amazing": "Incroyable !",
+            "good": "Bien",
+            "average": "Moyen",
+            "poor": "Mauvais",
+            "terrible": "Terrible",
+            "comment": "Ajouter un commentaire (optionnel)",
+            "placeholder": "Partagez votre expérience..."
+        }
+    },
+    "tracking": {
+        "title": "Suivi de Commande",
+        "orderNumber": "Commande #{{id}}",
+        "placedOn": "Passée le",
+        "estimatedDelivery": "Livraison estimée",
+        "timeline": {
+            "pending": "Commande reçue",
+            "pendingDesc": "Votre commande a été enregistrée",
+            "processing": "En préparation",
+            "processingDesc": "Vos articles sont en cours de préparation",
+            "shipped": "Expédiée",
+            "shippedDesc": "Votre colis est en route",
+            "delivered": "Livrée",
+            "deliveredDesc": "Votre colis a été livré",
+            "cancelled": "Annulée",
+            "cancelledDesc": "Cette commande a été annulée"
+        },
+        "orderSummary": "Récapitulatif",
+        "shippingAddress": "Adresse de livraison",
+        "paymentInfo": "Paiement",
+        "subtotal": "Sous-total",
+        "shipping": "Livraison",
+        "tax": "Taxes",
+        "total": "Total",
+        "backToOrders": "Retour à mes commandes",
+        "notFound": "Commande introuvable",
+        "notFoundDesc": "Le lien de suivi est invalide ou a expiré.",
+        "backHome": "Retour à l'accueil",
+        "items": "article(s)"
+    },
+    "waitingRoom": {
+        "title": "Bienvenue dans la salle d'attente",
+        "move": "Utilisez <0>Z, Q, S, D</0> ou les <1>Flèches</1> pour vous déplacer.",
+        "look": "Utilisez votre <0>Souris</0> pour regarder autour de vous.",
+        "wait": "Veuillez patienter ici. Une fois le médecin connecté, la visioconférence démarrera automatiquement.",
+        "button": "Explorer la salle d'attente"
+    }
+}

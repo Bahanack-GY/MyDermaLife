@@ -1,0 +1,42 @@
+export const doctors = [
+    {
+        id: 1,
+        name: "Dr. Sarah N'Diaye",
+        specialty: "Dermatologue Esthétique",
+        fullSpecialty: "Dermatologue - Spécialiste Peaux Noires",
+        description: "Diplômée des Hôpitaux de Paris, le Dr. N'Diaye est spécialisée dans le traitement de l'hyperpigmentation et de l'acné sur peaux mélaniques. Elle pratique une approche holistique combinant traitements médicaux et conseils en routine de soins.",
+        location: "Douala, Bonapriso",
+        fullLocation: "Clinique La Gloire, Douala, Cameroun",
+        rating: 4.9,
+        reviews: 124,
+        nextSlot: "Today, 14:30",
+        image: "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&q=80&w=400&h=400",
+        price: "25 000 FCFA",
+        tags: ["Acne", "Hyperpigmentation"],
+        lat: 4.0435,
+        lng: 9.6925,
+        experience: "12 ans",
+        languages: ["Français", "Anglais"],
+        education: ["Université de Paris V - Descartes", "DES Dermatologie - Yaoundé"]
+    },
+    {
+        id: 2,
+        name: "Dr. Jean-Paul Mbarga",
+        specialty: "Dermatologue Clinique",
+        fullSpecialty: "Dermatologue - Vénéréologue",
+        description: "Fort de 15 ans d'expérience au CHU de Yaoundé, le Dr. Mbarga traite toutes les pathologies cutanées courantes. Il est reconnu pour son expertise dans le diagnostic précoce des mélanomes et le traitement des maladies infectieuses cutanées.",
+        location: "Yaoundé, Bastos",
+        fullLocation: "Centre Médical Bastos, Yaoundé, Cameroun",
+        rating: 4.8,
+        reviews: 89,
+        nextSlot: "Tomorrow, 09:00",
+        image: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&q=80&w=400&h=400",
+        price: "25 000 FCFA",
+        tags: ["Eczema", "Psoriasis"],
+        lat: 3.8955,
+        lng: 11.5135,
+        experience: "15 ans",
+        languages: ["Français"],
+        education: ["Université de Yaoundé I", "Spécialisation Dermatologie Tropicale"]
+    }
+];

@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&family=Marcellus&display=swap');
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Angelica C';
+  src: url('./assets/AngelicaC/angelicac.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --font-sans: 'Josefin Sans', ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-serif: 'Marcellus', ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-logo: 'Angelica C', cursive;
+
+  --color-brand-default: #9A563A;
+  --color-brand-light: #fefae0;
+  --color-brand-dark: #8d6e63;
+  --color-brand-soft: #e9edc9;
+  --color-brand-text: #4a403a;
+  --color-brand-muted: #9ca3af;
+
+  --animate-shimmer: shimmer 3s infinite;
+
+  @keyframes shimmer {
+    0% {
+      transform: translateX(-150%);
+    }
+
+    50% {
+      transform: translateX(150%);
+    }
+
+    100% {
+      transform: translateX(150%);
+    }
+  }
+}
+
+@layer base {
+  body {
+    @apply font-sans text-brand-text bg-white antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-serif;
+  }
+}
+
+/* Hide scrollbar while keeping scroll functionality */
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;  /* Chrome, Safari and Opera */
+}
